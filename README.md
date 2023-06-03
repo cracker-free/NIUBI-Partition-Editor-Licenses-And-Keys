@@ -12,7 +12,7 @@ And find the keys in the Files above for your edition!
 DISCLAIMER
 ------
 I am not from NUIBI, the appliction is under their copyright and i am just a cracker.
-I Assume no reponsibility on damages madet to your DISK or PC by the software.
+I Assume no reponsibility on damages made to your DISK or PC by the software.
 Use responsibly and with care.
 
 
