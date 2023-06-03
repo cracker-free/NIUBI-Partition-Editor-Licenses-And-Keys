@@ -1,4 +1,3 @@
-# NIUBI-Partition-Editor-Licenses-And-Keys
 Hello There!
 
 Welcome to new Repistory!
